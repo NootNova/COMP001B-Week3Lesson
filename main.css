@@ -1,1 +1,42 @@
 
+.nav-bar {
+
+    width: 30%;
+
+    float: left;
+
+    background-color: aqua;
+
+}
+
+.main-content {
+
+    width: 30%;
+
+    float: left;
+
+    background-color: blueviolet;
+
+}
+
+.aside-content {
+
+    width: 30%;
+
+    float: left;
+
+    background-color: chartreuse;
+
+}
+
+footer {
+
+    clear: both;
+
+}
+
+img {
+
+    width: 100%;
+
+}
